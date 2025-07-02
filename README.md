@@ -1,7 +1,7 @@
 # Estoque
 # FUNÇÕES DO SISTEMA ESTOQUE120394TESTE
 
-## 📋 Documentação das Funcionalidades com Códigos
+## Documentação das Funcionalidades com Códigos
 
 ---
 
